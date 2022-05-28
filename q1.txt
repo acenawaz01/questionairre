@@ -2,7 +2,7 @@ What is the name of your state? [Huzaifa]
 Ans:
 
 What is the name of your country? [Taiba]
-Ans: 
+Ans: India
 
 
 What is the name of your city? [Frooty]
@@ -12,7 +12,7 @@ What is the name of your state? [Huzaifa]
 Ans:
 
 What is the name of your country? [Taiba]
-Ans: 
+Ans: India
 
 
 What is the name of your city? [Frooty]
@@ -22,7 +22,7 @@ What is the name of your state? [Huzaifa]
 Ans:
 
 What is the name of your country? [Taiba]
-Ans: 
+Ans: India
 
 
 What is the name of your city? [Frooty]
