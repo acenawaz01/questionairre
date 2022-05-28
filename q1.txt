@@ -1,5 +1,5 @@
 What is the name of your state? [Huzaifa]
-Ans:
+Ans: uttar pradesh
 
 What is the name of your country? [Taiba]
 Ans: India
@@ -9,7 +9,7 @@ What is the name of your city? [Frooty]
 Ans:Lucknow
 
 What is the name of your state? [Huzaifa]
-Ans:
+Ans: maharashtra
 
 What is the name of your country? [Taiba]
 Ans: India
@@ -19,7 +19,7 @@ What is the name of your city? [Frooty]
 Ans:Lucknow
 
 What is the name of your state? [Huzaifa]
-Ans:
+Ans: tamil nadu
 
 What is the name of your country? [Taiba]
 Ans: India
