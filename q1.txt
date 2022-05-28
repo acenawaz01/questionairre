@@ -6,7 +6,7 @@ Ans:
 
 
 What is the name of your city? [Frooty]
-Ans:
+Ans:Lucknow
 
 What is the name of your state? [Huzaifa]
 Ans:
@@ -16,7 +16,7 @@ Ans:
 
 
 What is the name of your city? [Frooty]
-Ans:
+Ans:Lucknow
 
 What is the name of your state? [Huzaifa]
 Ans:
@@ -26,4 +26,4 @@ Ans:
 
 
 What is the name of your city? [Frooty]
-Ans:
+Ans:Lucknow
